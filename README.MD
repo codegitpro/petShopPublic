@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot的宠物店管理系统087
+## 基于Springboot的宠物店管理系统(源代码+数据库+15000字论文+开题任务书)087
 
 ## 一、系统介绍
 
